@@ -1,1 +1,1 @@
-# Welcom_to_MAIA
+# Welcome to MAIA
