@@ -89,7 +89,7 @@ if __name__ == '__main__':
     # 8: When you learn how to code, try to use debug it line by line, and watch the memory information in each step.
     # 9: After you are familiar with the PyTorch as well as deep learning,
     #    you can use my another opensourced codebase "https://github.com/baiti01/CodeBase",
-    #    which might be much more powerful to used in your real project.
+    #    which might be much more powerful to be used in your real project.
 
     # params
     data_root = r'dataset'
